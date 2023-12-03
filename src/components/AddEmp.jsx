@@ -84,22 +84,22 @@ const AddEmp = () => {
           value={salary}
           onChange={(e) => setSalary(e.target.value)}
         />
-          <button
-            type="submit"
-            onClick={handleSubmit}
-            id="button-desgin"
-            className="button-desgin"
-          >
-            Add Employee
-          </button>
-          <button
-            type="button"
-            onClick={handleCancelClick}
-            id="button-desgin"
-            className="button-desgin"
-          >
-            Cancel
-          </button>
+        <button
+          type="submit"
+          onClick={handleSubmit}
+          id="button-desgin"
+          className="button-desgin"
+        >
+          Add Employee
+        </button>
+        <button
+          type="button"
+          onClick={handleCancelClick}
+          id="button-desgin"
+          className="button-desgin"
+        >
+          Cancel
+        </button>
       </form>
     </div>
   );
