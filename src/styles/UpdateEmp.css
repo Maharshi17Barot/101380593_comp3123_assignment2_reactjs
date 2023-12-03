@@ -1,0 +1,13 @@
+.upt-btn,
+.cls-btn {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.upt-btn {
+  background-color: #04aa6d;
+}
+
+.cls-btn {
+  background-color: #f44336;
+}
