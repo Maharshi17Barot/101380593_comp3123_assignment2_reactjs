@@ -23,12 +23,10 @@ const ViewEmp = ({ onClose }) => {
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
         }
-        window.alert("Employee Updated successful");
 
         const data = await response.json();
         setEmployee(data.get_employee);
         setFormData(data.get_employee);
-        navigate("/empscreen");
       } catch (error) {
         window.alert("Error fetching employee data");
         console.error("Error fetching employee data:", error);
@@ -64,8 +62,8 @@ const ViewEmp = ({ onClose }) => {
       }
 
       setEmployee(formData);
-
-      onClose();
+      window.alert("Employee Updated successful");
+      navigate("/empscreen");
     } catch (error) {
       console.error("Error updating employee data:", error);
     }
