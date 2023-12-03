@@ -26,7 +26,7 @@ const Signup = () => {
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
       }
-
+      window.alert("Signup successful");
       console.log("Signup successful");
       navigate("/login");
     } catch (error) {
@@ -73,16 +73,16 @@ const Signup = () => {
           value={password}
           onChange={(e) => setPassword(e.target.value)}
         />
-          <button
-            type="submit"
-            id="button-desgin-signup"
-            className="button-desgin-signup"
-          >
-            Sign Up
-          </button>
-          <a href="/login" className="link">
-            Already have Account? LogIn
-          </a>
+        <button
+          type="submit"
+          id="button-desgin-signup"
+          className="button-desgin-signup"
+        >
+          Sign Up
+        </button>
+        <a href="/login" className="link">
+          Already have Account? LogIn
+        </a>
       </form>
     </div>
   );

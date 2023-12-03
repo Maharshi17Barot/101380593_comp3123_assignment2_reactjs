@@ -31,10 +31,11 @@ const AddEmp = () => {
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
       }
-
+      window.alert("Employee Added successful");
       console.log("Employee Added successful");
       navigate("/empscreen");
     } catch (error) {
+      window.alert("Error during Adding Employee");
       console.error("Error during Adding Employee:", error);
     }
   };

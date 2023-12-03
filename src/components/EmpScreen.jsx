@@ -77,13 +77,13 @@ const EmpScreen = () => {
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
       }
-
-      // Update the employee list after deletion
+      window.alert("Employee Deleted successful");
       const updatedEmployees = employees.filter(
         (employee) => employee._id !== employeeId
       );
       setEmployees(updatedEmployees);
     } catch (error) {
+      window.alert("Error deleting employee");
       console.error("Error deleting employee:", error);
     }
   };

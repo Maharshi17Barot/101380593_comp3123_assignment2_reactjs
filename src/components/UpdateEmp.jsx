@@ -23,11 +23,14 @@ const ViewEmp = ({ onClose }) => {
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
         }
+        window.alert("Employee Updated successful");
 
         const data = await response.json();
         setEmployee(data.get_employee);
         setFormData(data.get_employee);
+        navigate("/empscreen");
       } catch (error) {
+        window.alert("Error fetching employee data");
         console.error("Error fetching employee data:", error);
       }
     };
@@ -74,7 +77,7 @@ const ViewEmp = ({ onClose }) => {
 
   return (
     <div className="view-modal">
-        <div className="background">
+      <div className="background">
         <div className="shape"></div>
         <div className="shape"></div>
       </div>
