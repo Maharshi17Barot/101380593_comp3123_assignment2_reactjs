@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# COMP3123 - Assignment -2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## MAHARSHI BAROT
+## 101380593
 
-## Available Scripts
+## POSTMAN - USERS
 
-In the project directory, you can run:
+![Login user](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/ca73b2dd-97e1-4022-8376-218a6e25229f)
 
-### `npm start`
+![create user](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/7ed8d2ad-9e66-4813-906b-64b712930117)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## POSTMAN _EMPLOYEE
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![update employee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/f915c123-d1ec-48e2-93f9-0d549b44427e)
 
-### `npm test`
+![get one employee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/7d089752-c31e-4f01-a390-8e94489a23f0)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![get all employee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/c844c0ef-0340-4596-90bb-1ab48b5baacd)
 
-### `npm run build`
+![Employee lis after delete](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/171418e3-21c2-4fd9-9232-52df8718e5b6)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![delete employee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/5bb9628f-efda-4385-bf54-a02ac0b77407)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![create employee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/b72f410c-d5a3-4b38-8ca2-268cb1493b49)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## REACT APP
 
-### `npm run eject`
+![view employee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/18b30950-6abb-4943-bb2f-3967c8e368ec)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![react signup](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/19419b37-509d-4604-a6bc-f03c0b707675)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![react login](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/fdcca7a6-5421-454d-a17b-b0374c589561)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![employee update](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/6c7849e7-c8a8-4896-81bf-f3c0c6f6d7b6)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![employee list](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/12ed5b3a-46ea-44fb-a685-d19055d8243a)
 
-## Learn More
+![employee list after update](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/8d3446c4-041c-4009-ba6a-b5e5421ae565)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![employee list after delete](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/23318924-a3ab-4aa0-8885-4f81e778065a)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![employee list after added employee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/61a5c408-1bb3-46c9-a25a-3ba6b4cd5f7f)
 
-### Code Splitting
+![delete employeee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/9fb28054-f9a1-45a7-b3ca-745a1f4348aa)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![add employee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/c2876aca-b541-4cb9-8d6e-9ba1be0ce9e7)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## MONGODB
 
-### Making a Progressive Web App
+![mongodb-employee](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/5a8e7cb3-bff1-4074-92c5-7ffddadef475)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![mongodb-users](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/8eaa50e9-f7de-48a7-8a6f-15d70d4a97bf)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## HEROKU
 
-### Deployment
+![heroku-deployment](https://github.com/Maharshi17Barot/101380593_comp3123_assignment2_reactjs/assets/99244382/37b1a8a3-e009-4e92-80da-3943a3fbc907)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
